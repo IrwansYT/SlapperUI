@@ -1,0 +1,14 @@
+---
+name: SlapperUI
+version: 2
+main: Irwan\Slapper_UI\SlapperUI
+api: [3.0.0, 3.15.4, 4.0.0]
+author: IrwanS
+
+commands:
+  slapperui:
+    description: §6Plugin By Irwan!
+    usage: /slapperui
+    aliases: [sui]
+    permission: use.slapperui.cmd
+...
